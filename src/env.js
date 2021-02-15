@@ -9,4 +9,5 @@ export const config = {
     twitterHandle: "@punch__lines",
     
     twitterURL: "https://twitter.com/punch__lines"
+    
 }
